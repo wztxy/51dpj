@@ -1,0 +1,62 @@
+# Keil uVision项目文件
+*.uvgui.*
+*.uvopt
+*.bak
+*.ddk
+*.edk
+*.lst
+*.lnp
+*.mpf
+*.mpj
+*.omf
+*.plg
+*.rpt
+*.tmp
+*.__i
+*._ia
+*.crf
+*.d
+*.o
+*.axf
+*.tra
+*.dep
+*.iex
+*.hex
+*.build_log.htm
+*.scvd
+
+# Keil编译输出目录
+Listings/
+Objects/
+DebugConfig/
+RTE/
+
+# Proteus仿真文件
+*.workspace
+*.pdsbak
+Project\ Backups/
+
+# Windows系统文件
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+~$*
+
+# IDE配置文件（保留项目文件，但忽略个人配置）
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
